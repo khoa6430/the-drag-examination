@@ -1,3 +1,5 @@
-STEP TO RUN PROJECT
-npm i
-npm run start
+# STEP TO RUN
+
+### `npm install`
+
+### `npm start`
